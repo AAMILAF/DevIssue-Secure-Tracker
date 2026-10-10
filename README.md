@@ -156,3 +156,22 @@ This project provides practical experience with:
 ## License
 
 See the [LICENSE](LICENSE) file for the project's license terms.
+
+## AI-Assisted Development
+
+**AI tool used:** Kiro
+
+Kiro was used during development to assist with selected implementation and documentation tasks. Suggestions were reviewed against the application requirements, and changes were checked in the local development environment.
+
+### AI-assisted tasks
+
+- Assisted with planning and organizing the full-stack project structure.
+- Helped implement or refine backend issue-management API functionality.
+- Assisted with frontend and backend integration.
+- Helped review input validation and error handling.
+- Assisted with improving project documentation and setup instructions.
+
+### Review and learning
+
+AI-generated suggestions were reviewed before use. Running the application helped verify functionality and understand how the frontend, backend, and database work together.
+
