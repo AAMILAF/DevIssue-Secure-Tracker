@@ -73,6 +73,7 @@ cd DevIssue-Secure-Tracker
 ### 2. Configure and start the backend
 
 From the project root, run:
+
 ```bash
 cd server
 npm install
@@ -93,15 +94,13 @@ Start the backend:
 npm run dev
 ```
 
-If your `package.json` does not define a `dev` script, check its scripts and use the available start command.
-
 The backend health endpoint is:
 
 `http://localhost:5000/api/health`
 
-### 3. Configure the frontend
+### 3. Configure and start the frontend
 
-Open a second terminal from the project root:
+Open a second terminal from the project root and run:
 
 ```bash
 cd client
@@ -156,4 +155,4 @@ This project provides practical experience with:
 
 ## License
 
-See the `LICENSE` file for the project's license terms.
+See the [LICENSE](LICENSE) file for the project's license terms.
