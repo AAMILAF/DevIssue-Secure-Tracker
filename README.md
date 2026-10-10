@@ -156,9 +156,4 @@ This project provides practical experience with:
 
 ## License
 
-See the LICENSE file for the project's license terms.
-
-
-## License
-
 See the `LICENSE` file for the project's license terms.
