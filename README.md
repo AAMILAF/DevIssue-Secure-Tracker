@@ -25,17 +25,17 @@ View issue statistics and manage reported issues.
 ### Create a New Issue
 Report bugs, vulnerabilities, or enhancements with severity and status details.
 
-![Create Issue Form](screenshots/create-issue.png)
+![Create Issue Form](screenshots/creating%20issues.png)
 
 ### Search and Filter Issues
 Search for issues and filter them by type, severity, and status.
 
-![Issue Search and Filters](screenshots/filters.png)
+![Issue Search and Filters](screenshots/filtes.png)
 
 ### Issue Details
 View issue information and access editing and deletion actions.
 
-![Issue Details](screenshots/issue-details.png)
+![Issue Details](screenshots/issues%20created.png)
 
 
 ## Technology Stack
