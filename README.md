@@ -70,8 +70,9 @@ git clone https://github.com/AAMILAF/DevIssue-Secure-Tracker.git
 cd DevIssue-Secure-Tracker
 ```
 
-### 2. Configure the backend
+### 2. Configure and start the backend
 
+From the project root, run:
 ```bash
 cd server
 npm install
