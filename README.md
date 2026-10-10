@@ -14,6 +14,30 @@ DevIssue is a web application for tracking software bugs, security vulnerabiliti
 - **Input validation:** Validate issue data on the backend.
 - **Safer API handling:** Restrict search patterns, allowlist sorting fields, limit JSON request sizes, and configure allowed CORS origins.
 
+
+## Screenshots
+
+### Dashboard
+View issue statistics and manage reported issues.
+
+![DevIssue Dashboard](screenshots/dashboard.png)
+
+### Create a New Issue
+Report bugs, vulnerabilities, or enhancements with severity and status details.
+
+![Create Issue Form](screenshots/create-issue.png)
+
+### Search and Filter Issues
+Search for issues and filter them by type, severity, and status.
+
+![Issue Search and Filters](screenshots/filters.png)
+
+### Issue Details
+View issue information and access editing and deletion actions.
+
+![Issue Details](screenshots/issue-details.png)
+
+
 ## Technology Stack
 
 **Frontend**
